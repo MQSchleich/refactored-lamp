@@ -12,7 +12,7 @@ Download the file *blkp*
 
 * Then, place black_push, e.g in */usr/bin/*. In the directory where *black_push* lies run 
   ```sudo mv blkp /usr/bin/```
-* Now you can use 
+* Now, you can use 
 
     ```blkp```
 
