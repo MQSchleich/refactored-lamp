@@ -11,7 +11,7 @@ Download the file *blkp*
     ```chmod u+x blkp ```
 
 * Then, place black_push, e.g in */usr/bin/*. In the directory where *black_push* lies run 
-  ```sudo mv black_push /usr/bin/```
+  ```sudo mv blkp /usr/bin/```
 * Now you can use 
 
     ```blkp```
