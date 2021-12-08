@@ -8,7 +8,7 @@ Format, add, commit, and push your files with one single command.
 Download the file *blkp*
 * First, run
 
-    ```chmod u+x bin/black_push ```
+    ```chmod u+x blkp ```
 
 * Then, place black_push, e.g in */usr/bin/*. In the directory where *black_push* lies run 
   ```sudo mv black_push /usr/bin/```
