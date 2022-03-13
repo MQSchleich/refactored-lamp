@@ -8,7 +8,7 @@ Format, add, commit, and push your files with one single command.
 ## How?
 Install necessary libraries in your environment
 ```
-pip install black pycln
+pip install black pycln flake8
 ```
 
 Download the file *blkp*

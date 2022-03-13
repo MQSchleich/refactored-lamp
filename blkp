@@ -3,6 +3,7 @@
 black .
 git add .
 pycln . -a
+flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
 echo Enter commit message
 read message
 git commit -m"${message}"
