@@ -6,6 +6,11 @@ Instead of having the whole usual Git command hustle, how about using something 
 Format, add, commit, and push your files with one single command. 
 
 ## How?
+Install necessary libraries in your environment
+```
+pip install black pycln
+```
+
 Download the file *blkp*
 * First, run
 
