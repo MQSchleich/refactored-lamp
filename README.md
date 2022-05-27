@@ -1,4 +1,10 @@
-![Did you forget something?](kym-cdn.com/photos/images/original/001/515/252/89e.jpeg)
+🟥 Maintance on GitHub is stopped and all code moves to Codeberg 🟥
+
+👉 Code from this repository obtained from GitHub is not licensed and not legal to use.
+
+👉 [New repo]([https://codeberg.org/cap_jmk/r](https://codeberg.org/cap_jmk/refactored-lamp))
+
+
 # It is always those tiny little things that make a huge difference
 Making working with Git in Python projects more easy. 
 Instead of having the whole usual Git command hustle, how about using something like *black-push*?
