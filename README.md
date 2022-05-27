@@ -2,7 +2,7 @@
 
 👉 Code from this repository obtained from GitHub is not licensed and not legal to use.
 
-👉 [New repo]([https://codeberg.org/cap_jmk/r](https://codeberg.org/cap_jmk/refactored-lamp))
+👉 [New repo]([https://codeberg.org/cap_jmk/r](https://codeberg.org/cap_jmk/refactored-lamp)
 
 
 # It is always those tiny little things that make a huge difference
